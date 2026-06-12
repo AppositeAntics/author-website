@@ -1,0 +1,26 @@
+html {
+    background-color: #008282;
+}
+
+h1 {
+     text-align: center;
+     font-size: 40px;
+     font-family:Verdana, Geneva, Tahoma, sans-serif;
+     background-color: azure;
+     padding: 20px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  padding: 20px;
+}
+
+p {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #cfcfcf;
+  padding: 20px 20px 20px 20px;
+  border: 5px solid black;
+}
